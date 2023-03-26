@@ -1,0 +1,31 @@
+{
+  "login": {
+    "title": "Hi, Welcome Back",
+    "signing": "Sign In",
+    "login": "Login",
+    "remember": "remember me",
+    "password": "password",
+    "required": "required"
+  },
+  "header": {
+    "logout": "Logout"
+  },
+  "all": {
+    "error": "Error",
+    "success": "Success",
+    "noData": "No Data Found",
+    "delete": "Are you sure to delete item ?",
+    "recovery": "You can not recovery",
+    "edit": "Edit",
+    "back": "Back",
+    "create": "Create",
+    "yes": "Yes",
+    "no": "No",
+    "required": "required"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "bodyTable": "Body",
+    "titleTable": "Title"
+  }
+}
